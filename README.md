@@ -1,5 +1,5 @@
 # secret-things
-this has nothing to do with @iron-ham
+this has something to do with @iron-ham
 🤫🤫🤫
 
-Test
+This is where I store all my musical secrets.
